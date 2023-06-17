@@ -5,7 +5,7 @@
 
 ![Spanish NER Diagram](assets/spanish_ner.drawio.png)
 
-![Kaggle](https://www.kaggle.com/competitions/ucsb-cs190i-hw4-ner-on-spanish-data/leaderboard)
+[Kaggle](https://www.kaggle.com/competitions/ucsb-cs190i-hw4-ner-on-spanish-data/leaderboard)
 
 ##### running inference (this produces test_ans.csv, everything else should be configured)
 `python inference.py` 
